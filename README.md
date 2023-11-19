@@ -1,1 +1,2 @@
-# chatApp-api-endpoint
+# chatApp
+chatapp-api-endpoint
